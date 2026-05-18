@@ -1,0 +1,12 @@
+# Wiring Connections
+
+## Water Level Sensor
+
+VCC → 5V  
+GND → GND  
+OUT → A0
+
+## LEDs
+
+Positive → Digital Pins  
+Negative → GND
