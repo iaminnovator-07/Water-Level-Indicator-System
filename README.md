@@ -50,12 +50,9 @@ The project detects water levels and provides indication alerts using LEDs and s
 ━━━━━━━━━━━━━━━━━━
 
 /images → project images and setup photos  
-/demo → working demonstrations  
 /docs → project documentation  
 /hardware → hardware and circuit details  
 /software → Arduino setup files  
-/src → source code files  
-/assets → project branding and visuals
 
 ━━━━━━━━━━━━━━━━━━
 ⚙ Working Principle
